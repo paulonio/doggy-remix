@@ -3,7 +3,7 @@ node_modules
 /.cache
 /build
 .env
-.yarn
+.yarn/install-state.gz
 
 /coverage
 
